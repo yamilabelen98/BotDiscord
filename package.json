@@ -1,0 +1,20 @@
+{
+  "name": "botdiscord",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Bot","Personal","Discord","discord","bot","canal"],
+  "author": "Yamila Belén De Olivera",
+  "license": "ISC",
+  "description": "Un bot de Discord diseñado como parte de mi aprendizaje en desarrollo de bots y automatización. Incluye funcionalidades básicas como comandos personalizados, moderación y respuestas automáticas, y está creado con un enfoque en la optimización y el uso eficiente de la API de Discord. Este proyecto forma parte de mi portafolio como muestra de mi habilidad en el desarrollo de bots y aplicaciones interactivas.",
+  "dependencies": {
+    "@discordjs/builders": "^1.8.2",
+    "@discordjs/rest": "^2.3.0",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "i18n": "^0.15.1"
+  }
+}
