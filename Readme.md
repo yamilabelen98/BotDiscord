@@ -1,4 +1,4 @@
-<div align="center" font-size= "28px" font-weight= "bold">
+<div align="center" font-size= "58px" font-weight= "bold">
 
  Bot de Discord
 
