@@ -2,10 +2,11 @@ const SpotifyWebApi = require("spotify-web-api-node");
 require("dotenv").config();
 const spotifyClientId = process.env.SPOTIFY_CLIENT_ID;
 const spotifyClientSecret = process.env.SPOTIFY_CLIENT_SECRET;
+const spotifyUri = process.env.SPOTIFY_URI;
 const spotifyApi = new SpotifyWebApi({
   clientId: spotifyClientId,
   clientSecret: spotifyClientSecret,
-  redirectUri: "https://open.spotify.com/playlist/0GZLOcH2gdCQEbYSdfmfMm",
+  redirectUri: spotifyUri,
 });
 
 async function getSpotifyAccessToken() {
