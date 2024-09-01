@@ -1,6 +1,6 @@
 <div align="center">
 
-# Bot de Discord
+ Bot de Discord
 
 </div>
 
