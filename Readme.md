@@ -1,10 +1,8 @@
-<div align="center" font-size= "58px" font-weight= "bold">
+<div align="center">
 
- Bot de Discord
+# **Bot de Discord**
 
 </div>
-
----
 
 <div >
   
