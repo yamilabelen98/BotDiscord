@@ -1,8 +1,8 @@
-<div align="center">
+<h1 align="center">
 
  Bot de Discord
 
-</div>
+</h1>
 
 ---
 
