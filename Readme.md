@@ -12,26 +12,55 @@ Un bot de Discord diseñado como parte de mi aprendizaje en desarrollo de bots y
 
 <div>
 
-## Requisitos
-
 Para hacerlo funcionar, necesitas los siguientes elementos:
 
-- **TOKEN, CLIENT_ID, GUILD_ID** de tu bot de Discord. Puedes seguir los pasos detallados en el siguiente [enlace](https://discord.com/developers/docs/quick-start/getting-started) para obtenerlos.
+- **TOKEN, CLIENT_ID, GUILD_ID** de tu bot de Discord. Puedes seguir los pasos detallados en este [enlace](https://discord.com/developers/docs/quick-start/getting-started) para obtenerlos.
+- Estas variables deberían estar en un archivo `.env`.
 
-</div>
-
----
-
-<div>
-  
 ## Configuración de Spotify
 
 Este proyecto también utiliza la API de Spotify para generar búsquedas de canciones en la aplicación. Para hacerlo funcionar, necesitarás:
 
 - **SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET, SPOTIFY_URI**. Puedes generarlos siguiendo los pasos en este [enlace](https://developer.spotify.com/dashboard).
 
-</div>
+## Instrucciones para Ejecutar el Bot
 
+1. **Clona el Repositorio**
+
+   Primero, clona este repositorio a tu máquina local usando el siguiente comando en tu terminal:
+
+   ```bash
+   git clone [URL_DEL_REPOSITORIO]
+
+
+2. **Instala las Dependencias**
+
+   Navega a la carpeta del proyecto y ejecuta:
+
+   ```bash
+   npm install
+
+3. **Configura las Variables de Entorno**
+
+   Navega a la carpeta del proyecto y ejecuta:
+
+   ```bash
+   DISCORD_TOKEN=tu_token_de_discord
+   DISCORD_CLIENT_ID=tu_client_id_de_discord
+   DISCORD_GUILD_ID=tu_guild_id_de_discord
+   SPOTIFY_CLIENT_ID=tu_client_id_de_spotify
+   SPOTIFY_CLIENT_SECRET=tu_client_secret_de_spotify
+   SPOTIFY_URI=tu_uri_de_spotify
+Reemplaza los valores con los datos correspondientes que has obtenido.
+
+4. **Arranca el Bot**
+
+Una vez que todo esté configurado, puedes iniciar el bot con el siguiente comando:
+    ```bash
+npm install
+
+  
+</div>
 ---
 
 <div align="center">
