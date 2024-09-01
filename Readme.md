@@ -1,6 +1,6 @@
-<h1 align="center">
+<h1 align="center" >
 
- Bot de Discord
+ <h1 style="font-size: 3em; font-weight: bold;">Bot de Discord</h1>
 
 </h1>
 
