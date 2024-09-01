@@ -43,6 +43,7 @@ Este proyecto también utiliza la API de Spotify para generar búsquedas de canc
 3. **Configura las Variables de Entorno**
 
    Navega a la carpeta del proyecto y ejecuta:
+   Reemplaza los valores con los datos correspondientes que has obtenido.
 
    ```bash
    DISCORD_TOKEN=tu_token_de_discord
@@ -51,13 +52,12 @@ Este proyecto también utiliza la API de Spotify para generar búsquedas de canc
    SPOTIFY_CLIENT_ID=tu_client_id_de_spotify
    SPOTIFY_CLIENT_SECRET=tu_client_secret_de_spotify
    SPOTIFY_URI=tu_uri_de_spotify
-Reemplaza los valores con los datos correspondientes que has obtenido.
-
+  
 4. **Arranca el Bot**
 
-Una vez que todo esté configurado, puedes iniciar el bot con el siguiente comando:
-    ```bash
-npm install
+   Una vez que todo esté configurado, puedes iniciar el bot con el siguiente comando:
+   ```bash
+   npm install
 
   
 </div>
