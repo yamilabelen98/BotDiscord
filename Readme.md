@@ -30,7 +30,7 @@ Este proyecto también utiliza la API de Spotify para generar búsquedas de canc
    Primero, clona este repositorio a tu máquina local usando el siguiente comando en tu terminal:
 
    ```bash
-   git clone [URL_DEL_REPOSITORIO]
+   git clone https://github.com/yamilabelen98/BotDiscord.git
 
 
 2. **Instala las Dependencias**
@@ -38,7 +38,7 @@ Este proyecto también utiliza la API de Spotify para generar búsquedas de canc
    Navega a la carpeta del proyecto y ejecuta:
 
    ```bash
-   npm install
+   npm start
 
 3. **Configura las Variables de Entorno**
 
