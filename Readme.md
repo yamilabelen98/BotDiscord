@@ -1,14 +1,20 @@
-<div align="center">
+<div>
 
 # Bot de Discord
 
 Un bot de Discord diseñado como parte de mi aprendizaje en desarrollo de bots y automatización. Incluye funcionalidades básicas como comandos personalizados, moderación y respuestas automáticas, y está creado con un enfoque en la optimización y el uso eficiente de la API de Discord. Este proyecto forma parte de mi portafolio como muestra de mi habilidad en el desarrollo de bots y aplicaciones interactivas.
 
+## Configuración de Spotify
+
+Este proyecto también utiliza la API de Spotify para generar búsquedas de canciones en la aplicación. Para hacerlo funcionar, necesitarás:
+
+- **SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET, SPOTIFY_URI**. Puedes generarlos siguiendo los pasos en este [enlace](https://developer.spotify.com/dashboard).
+
 </div>
 
 ---
 
-<div align="center">
+<div>
 
 ## Requisitos
 
@@ -34,13 +40,3 @@ Para hacerlo funcionar, necesitas los siguientes elementos:
 </div>
 
 ---
-
-<div align="center">
-
-## Configuración de Spotify
-
-Este proyecto también utiliza la API de Spotify para generar búsquedas de canciones en la aplicación. Para hacerlo funcionar, necesitarás:
-
-- **SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET, SPOTIFY_URI**. Puedes generarlos siguiendo los pasos en este [enlace](https://developer.spotify.com/dashboard).
-
-</div>
